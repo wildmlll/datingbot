@@ -34,8 +34,8 @@ Follow these steps to set up and run DateBot locally.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/datebot.git
-   cd datebot
+   git clone https://github.com/wildmlll/datingbot
+   cd datingbot
    ```
 
 2. **Install dependencies**:
@@ -47,7 +47,7 @@ Follow these steps to set up and run DateBot locally.
    - Create a bot via [BotFather](https://t.me/BotFather) and obtain the API token.
    - Update the bot token in `bot.py`:
      ```python
-     bot = Bot(token="YOUR_BOT_TOKEN")
+     bot = Bot(token="BOTAPI")
      ```
 
 4. **Set up the SQLite database**:
@@ -102,7 +102,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 - [aiogram](https://github.com/aiogram/aiogram) for the powerful Telegram Bot framework.
 - [SQLite](https://www.sqlite.org/) for lightweight and reliable database storage.
-- All users and supporters of DateBot! 💖
+- All users and testers of DateBot! 💖
 
 ---
 
